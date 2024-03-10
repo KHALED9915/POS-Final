@@ -1,0 +1,17 @@
+.Menu-list {
+    height: 94vh;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.Button-nav {
+    position: absolute;
+    z-index: 10;
+    top: 15px;
+    left: 25px;
+    margin-bottom: 10px;
+}

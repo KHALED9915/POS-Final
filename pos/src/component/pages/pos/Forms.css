@@ -1,0 +1,63 @@
+.content-style {
+    text-align: center;
+    min-height: 120px;
+    background-color: #F5F5F5;
+    width: calc(100% - 256px);
+    position: absolute;
+    top: 64px;
+    height: 94vh;
+    left: 256px;
+}
+
+.container {
+    margin: 20px;
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.form-design {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 100px;
+}
+
+
+
+.row-design {
+    width: 100%;
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Button-design {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 6px;
+}
+
+.model-design {
+    padding: 15px;
+    margin-bottom: 10px;
+    background-color: #f0f2f5;
+    font-size: 20px;
+}
+
+.print-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.custom-modal .ant-modal-content {
+    background-color: #f0f2f5;
+}

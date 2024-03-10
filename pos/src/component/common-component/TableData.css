@@ -1,0 +1,11 @@
+.editable-row .ant-form-item-explain {
+    position: absolute;
+    top: 100%;
+    font-size: 12px;
+}
+
+.Table-design {
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px;
+}
